@@ -1,0 +1,7 @@
+{
+  "name": "ozzcanx",
+  "website": "https://github.com/ozzcanx",
+  "description": "ozzcanx",
+  "logo": "https://r.resimlink.com/pngOD2CbIMZq.jpg",
+  "twitter": "https://twitter.com/ozzcanx"
+}
